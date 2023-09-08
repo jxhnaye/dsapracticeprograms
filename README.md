@@ -1,2 +1,1 @@
-# pa3
-In this programming assignment from my Data Structures course, we were asked to implement and test three sorting algorithms (in place heap sort, in place insertion sort, in place selection sort) and analyze their running times. 
+These programs are from my assignments I had during a Data Structures course I was enrolled in during the summer of 2023. 
